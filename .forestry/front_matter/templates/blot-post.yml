@@ -17,13 +17,3 @@ fields:
 - type: file
   name: image
   label: image
-- name: fasdfadsfasdfa
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: fasdfa
-  description: dsfadfadfadf
